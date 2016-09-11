@@ -1,0 +1,27 @@
+{
+  "name": "Number-Guesser-In-React",
+  "version": "1.0.0",
+  "description": "Revisiting an early project to practice React.js",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Casey1449/Number-Guesser-In-React.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Casey1449/Number-Guesser-In-React/issues"
+  },
+  "homepage": "https://github.com/Casey1449/Number-Guesser-In-React#readme",
+  "devDependencies": {
+    "chai": "^3.5.0",
+    "mocha": "^3.0.2",
+    "mocha-loader": "^0.7.1",
+    "webpack": "^1.13.2",
+    "webpack-dev-server": "^1.15.1"
+  }
+}
