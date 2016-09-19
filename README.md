@@ -1,3 +1,3 @@
-# Number-Guesser-In-React
+# Mod 2 Final Assessment
 
-Revisiting an early project to practice React.js
+A simple Scrabble UI in React
