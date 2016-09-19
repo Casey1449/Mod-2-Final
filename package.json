@@ -1,5 +1,5 @@
 {
-  "name": "Number-Guesser-In-React",
+  "name": "Mod-2-Final-Assessment",
   "version": "1.0.0",
   "description": "Revisiting an early project to practice React.js",
   "main": "index.js",
@@ -9,15 +9,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Casey1449/Number-Guesser-In-React.git"
+    "url": "git+https://github.com/Casey1449/Mod-2-Final.git"
   },
   "keywords": [],
   "author": "Casey Metz",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/Casey1449/Number-Guesser-In-React/issues"
+    "url": "https://github.com/Casey1449/Mod-2-Final/issues"
   },
-  "homepage": "https://github.com/Casey1449/Number-Guesser-In-React#readme",
+  "homepage": "https://github.com/Casey1449/Mod-2-Final#readme",
   "devDependencies": {
     "babel": "^6.5.2",
     "babel-core": "^6.14.0",
