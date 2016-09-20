@@ -12,6 +12,7 @@ describe('the scoreLetter function', function () {
   it('should return the number value of a capital letter', function () {
     let hi = scoreLetter('K');
     assert.equal(hi, 5);
+    //'hi 5!' Get it?
   });
 });
 
@@ -41,8 +42,13 @@ describe('the scoreWord function', function () {
     assert.equal(hi, 5);
   });
 
-  it('should accept a second argument that multiplies the returned result', function () {
+  it('should multiply the returned result by a passed-in number', function () {
     let value = scoreWord('hello', 2);
     assert.equal(value, 16);
+  });
+
+  it('convert the second argument to a number', function () {
+    let value = scoreWord('hello', '3');
+    assert.equal(value, 24);
   });
 });
